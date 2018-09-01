@@ -1,0 +1,7 @@
+{
+  "name": "ionSqlite",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
